@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCard">
+        <attr name="cardTitle" format="string" />
+        <attr name="cardSubtitle" format="string" />
+        <attr name="cardDescription" format="string" />
+        <attr name="cardImage" format="reference" />
+        <attr name="cardAvatar" format="reference" />
+        <attr name="primaryButtonText" format="string" />
+        <attr name="secondaryButtonText" format="string" />
+    </declare-styleable>
+</resources>

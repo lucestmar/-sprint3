@@ -79,7 +79,7 @@ class HomeActivity : AppCompatActivity() {
          binding.ivVeladaBanner.setImageResource(R.drawable.img_velada_2027)
     }
 
-   
+
     private fun setupListeners() {
         binding.btnAction.setOnClickListener {
             Toast.makeText(

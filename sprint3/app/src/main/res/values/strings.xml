@@ -6,4 +6,7 @@
         <string name="btn_buy_tickets">Reservar entradas</string>
         <string name="cd_velada_banner">Cartel promocional oficial de La Velada del Año 2027 con luces de estadio</string>
         <string name="toast_not_implemented">Todavía no está implementado</string>
+        <string name="cd_card_avatar">Imagen de avatar del usuario</string>
+        <string name="cd_more_options">Más opciones</string>
+        <string name="cd_card_main_image">Imagen principal de la tarjeta</string>
 </resources>
