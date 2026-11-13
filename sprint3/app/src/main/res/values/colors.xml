@@ -5,6 +5,12 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
+    <color name="bg_dark_primary">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg_card_surface">#1A1D24</color>
+    <color name="accent_gold">#FFD700</color>
+    <color name="accent_gold_dark">#C5A000</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B3B8</color>
+    <color name="stroke_subtle">#2D323E</color>
 </resources>
